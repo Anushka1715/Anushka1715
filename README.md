@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web and Application Developer from India.</h3>
 
 
-- 🌱 I’m currently learning **React, JavaFx, MongoDB**
+- 🌱 I’m currently learning **React, JavaFx, MongoDB, NodeJs**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
