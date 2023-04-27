@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Mahajan</h1>
-<h3 align="center">A passionate Web and Application Developer from India.</h3>
+<h3 align="center">A passionate Website and Application Developer from India.</h3>
 
 
 - 🌱 I’m currently learning **React, JavaFx, MongoDB, NodeJs**
