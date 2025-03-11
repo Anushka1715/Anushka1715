@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/53bbded0cd52cfb76da9566070365f68c901c7580221db748af6c44897de057b/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032342f3835382f3639392f6f726967696e616c2f706978656c2d6a6566662d6469766f6f6d2e6769663f31353833373731393034)](https://github.com/Anushka1715)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnextglabs%2Fnextglabs&psig=AOvVaw0qXqI30t1Xz3bVnSgFYcmj&ust=1741763727536000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjnuta9gYwDFQAAAAAdAAAAABAK)](https://github.com/Anushka1715)
 
 
 <h2 align="left">Hi 👋! My name is Anushka and I'm a passionate Full Stack Developer from India.</h2>
