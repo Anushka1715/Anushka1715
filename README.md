@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnextglabs%2Fnextglabs&psig=AOvVaw0qXqI30t1Xz3bVnSgFYcmj&ust=1741763727536000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjnuta9gYwDFQAAAAAdAAAAABAK)](https://github.com/Anushka1715)
+[![MasterHead](https://media.graphassets.com/iOHVkwZJSROO9LafpHiX)](https://github.com/Anushka1715)
 
 
 <h2 align="left">Hi 👋! My name is Anushka and I'm a passionate Full Stack Developer from India.</h2>
